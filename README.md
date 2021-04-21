@@ -10,6 +10,6 @@ So, This is a appraoch of classification of tweets whether they are indicating d
 
 ****************************************************************************************************************************************
 Aman Patkar    
-Aspiring Data scientist
+Aspiring Data scientist                                                                                                                   
 Indian Institute of Technology Jammu                                                                                  
 LinkedIn:- https://www.linkedin.com/in/aman-patkar-086368159/
