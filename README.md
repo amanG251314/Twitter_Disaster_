@@ -9,6 +9,7 @@ But, it’s not always clear whether a person’s words are actually announcing 
 So, This is a appraoch of classification of tweets whether they are indicating disaster or normal.
 
 ****************************************************************************************************************************************
-Aman Patkar 
-Indian Institute of Technology Jammu 
+Aman Patkar    
+Aspiring Data scientist
+Indian Institute of Technology Jammu                                                                                  
 LinkedIn:- https://www.linkedin.com/in/aman-patkar-086368159/
