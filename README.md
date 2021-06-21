@@ -1,5 +1,7 @@
 # Twitter_Disaster
-* Natural Language Processing with Disaster Tweets
+- I did Exploratory Data Analysis(EDA) of the data
+- I Used Tf-Idf for converting the text to vector
+- I Used Support Vector Classifier
 ****************************************************************************************************************************************
 
 Twitter has become an important communication channel in times of emergency.
