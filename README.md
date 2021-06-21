@@ -7,6 +7,7 @@ The ubiquitousness of smartphones enables people to announce an emergency they�
 But, it’s not always clear whether a person’s words are actually announcing a disaster.
 
 So, This is a appraoch of classification of tweets whether they are indicating disaster or normal.
+![](Capture.PNG)
 
 ****************************************************************************************************************************************
 Aman Patkar    
